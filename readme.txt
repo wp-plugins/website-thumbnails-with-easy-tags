@@ -10,13 +10,9 @@ Tested up to: 2.7
 
 Show Thumbnails of webpages just with a tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
 
-
-
 == Description ==
 
 Show Thumbnails of webpages just with a tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
-
-
 
 == Installation ==
 
@@ -24,8 +20,6 @@ Show Thumbnails of webpages just with a tag: Use [thumb]http://www.homepage.com[
    worpress plugins directory: `/wp-content/plugins/`.
 2. Activate the plugin and follow the instructions in the description.
 3. Use [thumb]http://www.homepage.com[/thumb] with the url you want to link, in your articles
-
-
 
 == Frequently Asked Questions ==
 
@@ -40,7 +34,6 @@ No
 = Do i have to upload pictures? =
 
 No, only use the tag [thumb]YOUR_URL[/thumb]
-
 
 == Screenshots ==
 
