@@ -1,7 +1,7 @@
 === Homepage Thumbnails with picdonkey ===
 Plugin Name: picdonkey
 Plugin URI: http://www.bildesel.de/
-Description: Show Thumbnails of webpages just with a tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
+Description: Show Thumbnails of webpages just with a simple ubb tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
 Version: 1.0
 Author: Sascha Ende
 Author URI: http://www.endemedia.de/downloads/wordpress-plugin-picdonkey
@@ -11,11 +11,21 @@ Tags: homepage,website,thumbnail,thumb,screenshot,link,links
 Requires at least: 1.0
 Tested up to: 2.7
 
-Show Thumbnails of webpages just with a tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
+Show Thumbnails of webpages just with a simple ubb tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
 
 == Description ==
 
-Show Thumbnails of webpages just with a tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
+Show Thumbnails of webpages just with a simple ubb tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
+
+----------------
+
+Für die ganzen Wordpress Nutzer gibt es nun ein neues einfaches, aber effektives Plugin - die Blogger werden sich freuen: Wenn in Artikeln Homepages verlinkt werden, kann man diese nun mit einem Vorschaubild, anstatt einfach nur mit einem Link verlinken.
+
+Das Picdonkey Plugin einfach entpacken und das Verzeichnis “picdonkey” in den Ordner “wp-content/plugins” bei Wordpress hochladen. Danach müsst Ihr es nur noch aktivieren und schon könnt Ihr mit dem Tag…
+
+[thumb]http://www.homepage.de[/thumb]
+
+…Thumbnails in Eure Wordpress Artikel einbauen. Diese Thumbnails werden automatisch über eine Zwischenseite auf die entsprechende URL weiterverlinkt.
 
 == Installation ==
 
