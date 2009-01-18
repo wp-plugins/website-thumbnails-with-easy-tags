@@ -1,7 +1,7 @@
 === Homepage Thumbnails with picdonkey ===
 Plugin Name: picdonkey
 Plugin URI: http://www.bildesel.de/wordpress
-Description: Show Thumbnails of webpages just with a simple ubb code: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
+Description: Show Thumbnails of webpages just with a simple ubb code: Use `[thumb]http://www.homepage.com[/thumb]` in your articles and you have linked thumbnails.
 Version: 1.0
 Author: Sascha Ende
 Author URI: http://www.endemedia.de/downloads/wordpress-plugin-picdonkey
@@ -14,11 +14,11 @@ Stable tag: trunk
 Contributors: endemedia
 Donate link: http://www.endemedia.de/downloads/wordpress-plugin-picdonkey
 
-Show Thumbnails of webpages just with a simple ubb code: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
+Show Thumbnails of webpages just with a simple ubb code: Use `[thumb]http://www.homepage.com[/thumb]` in your articles and you have linked thumbnails.
 
 == Description ==
 
-Show Thumbnails of webpages just with a simple ubb code: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
+Show Thumbnails of webpages just with a simple ubb code: Use `[thumb]http://www.homepage.com[/thumb]` in you articles and you have linked thumbnails.
 
 ----------------
 
@@ -35,7 +35,7 @@ Das Picdonkey Plugin einfach entpacken und das Verzeichnis “picdonkey” in de
 1. Upload the picdonkey plugin directory, along with its contents, to your
    worpress plugins directory: `/wp-content/plugins/`.
 2. Activate the plugin and follow the instructions in the description.
-3. Use [thumb]http://www.homepage.com[/thumb] with the url you want to link, in your articles
+3. Use `[thumb]http://www.homepage.com[/thumb]` with the url you want to link, in your articles. Dont forget to start with http://
 
 == Frequently Asked Questions ==
 
