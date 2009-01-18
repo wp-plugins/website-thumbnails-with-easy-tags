@@ -54,3 +54,4 @@ No, only use the tag [thumb]YOUR_URL[/thumb]
 == Screenshots ==
 
 1. Easy way of embedding website screenshots just with a snippet of ubb code
+2. Thats all you have to do in your editor ...
