@@ -1,6 +1,6 @@
 === Homepage Thumbnails with picdonkey ===
 Plugin URI: http://www.bildesel.de/
-Description: Thumbnails von Homepages mit Hilfe vom Bildesel in BLOG Artikeln anzeigen. Einfach mit [thumb]http://www.homepage.de[/thumb]
+Description: Show Thumbnails of webpages just with a tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
 Version: 1.0
 Author: Sascha Ende
 Author URI: http://www.bildesel.de/
