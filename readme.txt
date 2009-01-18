@@ -14,6 +14,8 @@ Stable tag: trunk
 Contributors: endemedia
 Donate link: http://www.endemedia.de/downloads/wordpress-plugin-picdonkey
 
+Show Thumbnails of webpages just with a simple ubb code: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
+
 == Description ==
 
 Show Thumbnails of webpages just with a simple ubb code: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
