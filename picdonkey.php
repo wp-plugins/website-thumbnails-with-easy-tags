@@ -3,7 +3,7 @@
 /*
 Plugin Name: picdonkey
 Plugin URI: http://www.bildesel.de/
-Description: Show Thumbnails of webpages just with a simple ubb tag: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
+Description: Show Thumbnails of webpages just with a simple ubb code: Use [thumb]http://www.homepage.com[/thumb] in you articles and you have linked thumbnails.
 Version: 1.0
 Author: Sascha Ende
 Author URI: http://www.endemedia.de/downloads/wordpress-plugin-picdonkey
