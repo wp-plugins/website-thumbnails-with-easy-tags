@@ -9,7 +9,7 @@ Author: Sascha Ende
 Author URI: http://www.endemedia.de/downloads/wordpress-plugin-picdonkey
 Min WP Version: 1.0
 Max WP Version: 2.7
-Tags: homepage,website,thumbnail,thumb,screenshot,link,links
+Tags: homepage,website,thumbnail,thumb,screenshot,link,links,images,image
 Requires at least: 1.0
 Tested up to: 2.7
 */
