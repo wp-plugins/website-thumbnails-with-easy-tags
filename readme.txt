@@ -51,5 +51,4 @@ No, only use the tag [thumb]YOUR_URL[/thumb]
 
 == Screenshots ==
 
-1. Number 1
-2. Number 2
+1. Easy way of embedding website screenshots just with a snippet of ubb code
